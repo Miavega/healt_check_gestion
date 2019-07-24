@@ -34,11 +34,11 @@ Un cliente de comprobación de estado - un servicio de supervisión, un registro
 ## Configuración
 Statping permite la gestión de los estados mediante un servicio estadístico que muestra en tiempo real la actividad del sitio web o aplicación realizando peticiones automáticas dado un determinado tiempo.
 
-[Statping](https://camo.githubusercontent.com/0057937521f8bdcef28eff5188980a4a00bb166d/68747470733a2f2f696d672e636a782e696f2f7374617475707369746572756e2e676966)
+![Statping](https://raw.githubusercontent.com/Miavega/healt_check_gestion/master/estadisticas.gif)
 
-Así mismo, permite almacenar logs para llevar una trazabilidad de los estados de la aplicación. Para esto es necesario darle una base de datos en la cual pueda guardar los logs, en este caso se configuró una base de datos PosgreSQL.
+Así mismo, permite almacenar logs para llevar una trazabilidad de los estados de la aplicación. Para esto es necesario darle una base de datos en la cual pueda guardar la información, en este caso se configuró una base de datos PosgreSQL.
 
-[Statping](https://lh3.googleusercontent.com/-yfNHvImYY3o/XTidFiiwnOI/AAAAAAAAI14/66RsN3fSQkMEw-p9nmvXxN6Iwq6FaKPmgCK8BGAs/s0/2019-07-24.png)
+![Statping](https://raw.githubusercontent.com/Miavega/healt_check_gestion/master/base_datos.png)
 
 ### UNIVERSIDAD DISTRITAL FRANCISCO JOSÉ DE CALDAS
 ### 2019
